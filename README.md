@@ -52,4 +52,4 @@ Scale*, ICC (submission), 2015.
 
 ## Contact
 
-Xiaming Chen ([My site](http://hsiamin.com)), xiaming.chen@gmx.com
+[Xiaming Chen](http://hsiamin.com), xiaming.chen@gmx.com
