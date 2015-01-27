@@ -84,12 +84,12 @@ conclusions.
 
 ## Citation
 
-@INPROCEEDINGS{Modeling15-Chen,
-    author={Xiaming Chen, Yaohui Jin, Siwei Qiang, Weisheng Hu, Kaida Jiang},
-    booktitle={Communications (ICC), 2015 IEEE International Conference on},
-    title={Analyzing and Modeling Spatio-Temporal Dependence of Cellular Traffic at City Scale},
-    year={2015}
-}
+    @INPROCEEDINGS{Modeling15-Chen,
+        author={Xiaming Chen, Yaohui Jin, Siwei Qiang, Weisheng Hu, Kaida Jiang},
+        booktitle={Communications (ICC), 2015 IEEE International Conference on},
+        title={Analyzing and Modeling Spatio-Temporal Dependence of Cellular Traffic at City Scale},
+        year={2015}
+    }
 
 ## Copyright
 
