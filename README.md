@@ -48,17 +48,17 @@ processing about great circle distance.
 
 * Traffic trace file (1625680 rows, 5 columns)
 
-> * bs: identity of each cellular base station in this public data.
-> * time_hour: hourly timestamp in UNIX epoch time (time zone GMT+8).
-> * users: the number of active users associated with specific base station and hour.
-> * packets: the number of transferd packets associated with specific base station and hour.
-> * bytes: the number of transferd bytes associated with specific base station and hour.
+> * BS: identity of each cellular base station in this public data.
+> * Time_hour: hourly timestamp in UNIX epoch time (time zone GMT+8).
+> * Users: the number of active users associated with specific base station and hour.
+> * Packets: the number of transferd packets associated with specific base station and hour.
+> * Bytes: the number of transferd bytes associated with specific base station and hour.
 
 * Topology file (13296 rows, 3 columns)
 
-> * bs: identity of each cellular base station in this public data.
-> * lon: relative longitude of given base station.
-> * lat: relative latitude of given base station.
+> * BS: identity of each cellular base station in this public data.
+> * Lon: relative longitude of given base station.
+> * Lat: relative latitude of given base station.
 
 ## Visualization
 
