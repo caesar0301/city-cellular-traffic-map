@@ -2,7 +2,7 @@
 
 This repository gives detailed description about
 [city-cellular-traffic-map dataset](https://github.com/caesar0301/city-cellular-traffic-map). You
-can access the [CRAWDAD repository](#) from Dartmouth to download the data
+can access the [CRAWDAD repository](http://crawdad.cs.dartmouth.edu/sjtu/c2tm/) from Dartmouth to download the data
 directly. Please cite our paper below if this data contributes to you research
 conclusions.
 
