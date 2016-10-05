@@ -72,7 +72,7 @@ involved to show up the dynamics more obviously.
 
 ## Download
 
-You can access the [CRAWDAD repository](#) from Dartmouth to download the data
+You can access the [CRAWDAD repository](#) from Dartmouth, or download from [this repo.](https://github.com/caesar0301/city-cellular-traffic-map/raw/master/traceset.zip)
 directly. Please cite our paper below if this data contributes to you research
 conclusions.
 
